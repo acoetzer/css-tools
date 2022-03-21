@@ -2,7 +2,7 @@
 
 <h2>Reset CSS</h2>
 
-<P style="margin:0 auto; text-align:center; color:red;">
+<P>
 html, body, div, span, applet, object, iframe, <br>
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, <br>
 a, abbr, acronym, address, big, cite, code, <br>
