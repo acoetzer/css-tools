@@ -2,9 +2,10 @@
 
 <h2>Reset CSS</h2>
 <h3>Credit to</h3>
-	http://meyerweb.com/eric/tools/css/reset/ 
-	v2.0 | 20110126
-	License: none (public domain)
+	
+> http://meyerweb.com/eric/tools/css/reset/ 
+> v2.0 | 20110126
+> License: none (public domain)
 
 
 <P>
